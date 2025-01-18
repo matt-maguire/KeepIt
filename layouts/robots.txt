@@ -4,6 +4,8 @@ Disallow: /images/
 Disallow: /js/
 Disallow: /css/
 Disallow: /tags/
+Disallow: /eo/tags/
+Disallow: /en-shaw/tags/
 
 User-agent: MJ12bot
 Disallow: /
