@@ -234,6 +234,7 @@
     Bilibili = "xxx"
     Email = "xxx"
     RSS = "xxx"
+    Bluesky = "xxx"
 
   # Page global config
   [params.page]
@@ -325,6 +326,7 @@
       Skype = false
       Trello = false
       Mix = false
+      Bluesky = true
     # Comment config
     [params.page.comment]
       enable = false

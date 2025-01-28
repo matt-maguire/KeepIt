@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fastbyte01/KeepIt.git"
+    "url": "git+https://github.com/matt-maguire/KeepIt.git"
   },
   "keywords": [
     "hugo",
@@ -36,8 +36,8 @@
   "author": "Dillon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Fastbyte01/KeepIt/issues"
+    "url": "https://github.com/matt-maguire/KeepIt/issues"
   },
-  "homepage": "https://github.com/Fastbyte01/KeepIt#readme",
+  "homepage": "https://github.com/matt-maguire/KeepIt#readme",
   "main": "index.js"
 }

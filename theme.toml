@@ -2,7 +2,7 @@
 
 name = "KeepIt"
 license = "MIT"
-licenselink = "https://github.com/Fastbyte01/KeepIt/blob/master/LICENSE"
+licenselink = "https://github.com/matt-maguire/KeepIt/blob/master/LICENSE"
 description = "A Clean, Elegant but Advanced Hugo Theme for Hugo."
 
 homepage = "https://giuseppep.it"
@@ -34,4 +34,4 @@ min_version = "0.62.0"
 [original]
   name = "Fastbyte01"
   homepage = "https://www.fsb01.com/"
-  repo = "https://github.com/Fastbyte01/KeepIt"
+  repo = "https://github.com/matt-maguire/KeepIt"
