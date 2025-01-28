@@ -509,3 +509,12 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 065: Bluesky
+bluesky:
+ Weight: 57
+ Prefix: https://bsky.app/profile/
+ Title: Bluesky
+ Icon:
+   Simpleicons: bsky
+
